@@ -281,7 +281,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010064751958, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.13
+      value: 0.043
       objectReference: {fileID: 0}
     - target: {fileID: 4000010064751958, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -293,19 +293,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010064751958, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071068
+      value: 0.70183617
       objectReference: {fileID: 0}
     - target: {fileID: 4000010064751958, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0.0861746
       objectReference: {fileID: 0}
     - target: {fileID: 4000010064751958, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7071068
+      value: -0.70183617
       objectReference: {fileID: 0}
     - target: {fileID: 4000010064751958, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.0861746
       objectReference: {fileID: 0}
     - target: {fileID: 4000010064751958, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -317,6 +317,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010064751958, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012715157090, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012715157090, guid: 1b301b2e02b45004d9e06d302e8f592c, type: 3}
+      propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114000014043887918, guid: 1b301b2e02b45004d9e06d302e8f592c,
@@ -402,7 +410,7 @@ PrefabInstance:
     - target: {fileID: 198000010987504020, guid: 1b301b2e02b45004d9e06d302e8f592c,
         type: 3}
       propertyPath: InitialModule.startLifetime.scalar
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 198000010987504020, guid: 1b301b2e02b45004d9e06d302e8f592c,
         type: 3}
